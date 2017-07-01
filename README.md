@@ -24,6 +24,8 @@ Then you have a lot of resources on the Internet:
 * [StackViews Baseline Alignment Argument](https://useyourloaf.com/blog/stack-view-baseline-alignment-issue/)
 * [More Resources, including these for stackviews, on UseYourLoaf](https://useyourloaf.com/archives/)
 
+There is also plenty of online tutorials, just to cite a few:
+ * [MakeAppPie Programmatically StackViews](https://makeapppie.com/2015/11/11/how-to-add-stack-views-programmatically-and-almost-avoid-autolayout/) 
  
 ## Now the Use Case
 I want to display images and UIPickerViews to enter data when pressing a button, and hiding the UIPickerView upon selection. The problem is that UIPickerViews inside UIStackViews seems to be hard to tame accoridng to this [post](https://codexample.org/questions/419376/animate-datepicker-hide-show-in-stackview.c) and in this one [Stack Views conflicts when hidding views](https://useyourloaf.com/blog/stack-view-constraint-conflicts-when-hiding-views/).
