@@ -15,6 +15,7 @@ I also recommend watching the videos in [Ray Wenderlich official youtube channel
  
 
 Then you have a lot of resources on the Internet:
+ * [Think & Build It](http://www.thinkandbuild.it/introduction-to-uistackview/)
  * [How to add a Background Color view to a StackView by UseYourLoaf](https://useyourloaf.com/blog/stack-view-background-color/)
  * [Easier Auto layout with stackviews](https://useyourloaf.com/blog/easier-autolayout-with-stackviews/)
  * [Adapting Stackviews with Size Classes](https://useyourloaf.com/blog/adapting-stack-views-with-size-classes/)
